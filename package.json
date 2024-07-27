@@ -1,0 +1,15 @@
+{
+  "name": "use-hijri-date",
+  "version": "1.0.0",
+  "description": "This library's main usage is to be used by Non-Technical testers during UAT, SIT or any testing phase.",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm publish --access=public"
+  },
+  "keywords": [
+    "debugger"
+  ],
+  "author": "Fattah Muhyiddeen <fattahmuhyiddeen@gmail.com>",
+  "license": "MIT"
+}
