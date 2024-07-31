@@ -1,8 +1,8 @@
 {
   "name": "use-hijri-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library's main usage is to be used by Non-Technical testers during UAT, SIT or any testing phase.",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "npm publish --access=public"
